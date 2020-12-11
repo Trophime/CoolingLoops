@@ -3,7 +3,7 @@ Cooling Magnets Loops
 
 ## Cooling loop description
 
-![Alt text](figures/coolingloop.jpg?raw=true "Schematic Magnet Cooling system")
+![Alt text](figures/coolingloop.png?raw=true "Schematic Magnet Cooling system")
 
 High Field Resistive magnets dissipate electrical power in the form of Joule losses.
 To prevent them to reach temperature higher than an heuistic threshold the magnets
